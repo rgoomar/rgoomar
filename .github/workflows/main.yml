@@ -14,5 +14,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_rss: yes
-          plugin_rss_source: https://rishigoomar.com/feed.xml
+          plugin_rss_source: https://rishigoomar.com/rss.xml
           plugin_rss_limit: 10
